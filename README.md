@@ -1,7 +1,5 @@
-# justfortest
+# Mspitzel Robomow intialize
 
 
-This is a demo installer website for [ESP32 justfortest](https://github.com/aemkeinyc/justfortest).
+This is an initialize installer website for Lolin D32pro to run Mspitzel for Robomow lawn mowers.
 
-[Visit installer website](www.google.de
-)
